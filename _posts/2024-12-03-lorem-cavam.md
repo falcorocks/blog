@@ -5,7 +5,7 @@ date: 2024-12-03
 
 Curabitur pharetra massa augue, nec egestas odio pharetra et. Donec lobortis lacinia justo, fermentum mollis massa ornare quis. Integer sagittis id quam at posuere. Nulla vitae metus lacinia, maximus est vitae, euismod est. Class aptent taciti sociosqu ad litora torquent per conubia nostra, per inceptos himenaeos. Duis tincidunt nibh vitae augue finibus, nec pretium nisi maximus. Proin id dignissim eros. Ut ac dignissim enim. Aliquam non accumsan erat. Nam tempus purus eros, vel molestie enim luctus quis.
 
-![image](assets/postojna-cave-05-slovenia.jpg)
+![image]({{ site.baseurl }}/assets/postojna-cave-05-slovenia.jpg)
 
 Ut vel sapien ut lacus egestas porta. Nullam mattis ipsum in ante pellentesque, eu maximus libero ullamcorper. Duis urna elit, condimentum at mauris in, semper fermentum dolor. Nunc pretium urna sed faucibus suscipit. Curabitur facilisis placerat ligula ut tincidunt. Mauris nisl nibh, placerat id maximus et, elementum auctor ex. Donec maximus sodales urna, a suscipit erat interdum at. Nulla facilisi. Suspendisse mollis mauris sit amet metus pulvinar, nec dignissim enim aliquet. Nulla ultricies gravida cursus. Pellentesque habitant morbi tristique senectus et netus et malesuada fames ac turpis egestas. Sed ultrices mauris felis, sed fringilla risus iaculis molestie. Etiam rutrum eros eu venenatis pulvinar.
 
