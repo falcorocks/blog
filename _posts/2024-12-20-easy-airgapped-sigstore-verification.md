@@ -1,6 +1,7 @@
 # Introducing TrustRoot Assembler: Simplifying Airgapped Sigstore Verification
 
-## Cluster Image Policies & Custom Sigstore Instances
+<!-- TODO: move this to another article, end of this one or remove entirely -->
+<!-- ## Cluster Image Policies & Custom Sigstore Instances
 
 Sigstore allows us to sign container images using the "keyless" method. The Sigstore policy controller enables us to enforce admission control of images in a Kubernetes cluster based on the validity of these keyless signatures. For an image signature to be valid, it must be:
 * Integer: The image was not tampered with, and the signature matches it.
@@ -52,7 +53,7 @@ spec:
             url: https://rekor.my-sigstore.dev
 ```
 
-When the default Sigstore is used, the policy controller relies on the TrustRoot embedded in its source code. However, if the `ClusterImagePolicy` specifies a `trustRootRef: my-sigstore`, the policy controller will need to check for a `TrustRoot` Custom Resource named `my-sigstore` in the cluster. But what exactly is a `TrustRoot`, and why does it matter?
+When the default Sigstore is used, the policy controller relies on the TrustRoot embedded in its source code. However, if the `ClusterImagePolicy` specifies a `trustRootRef: my-sigstore`, the policy controller will need to check for a `TrustRoot` Custom Resource named `my-sigstore` in the cluster. But what exactly is a `TrustRoot`, and why does it matter? -->
 
 ## TUF TrustRoots
 
